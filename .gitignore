@@ -36,3 +36,4 @@ Makefile
 travis_qmake_gcc_cpp98_gcov
 travis_qmake_gcc_cpp98
 travis_gcc_cpp98
+travis_gcc_cpp14
